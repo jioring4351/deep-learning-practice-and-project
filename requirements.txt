@@ -1,0 +1,7 @@
+#필요한 파이썬 라이브러리
+
+torch
+torchvision
+numpy
+matplotlib
+scikit-learn
