@@ -1,6 +1,8 @@
-딥러닝 관련 공부를 위한 실습 및 프로젝트 공간
+딥러닝 기초 구현
+→ CNN 이미지 분류
 
-작성 순서
-1. fashion-mnist-cnn-practice - CNN 실습
-2. clip-zero-shot-practice - VLM 실습
-3. 
+VLM 입문
+→ CLIP 이미지-텍스트 매칭
+
+강화학습 입문
+→ DQN CartPole 제어
