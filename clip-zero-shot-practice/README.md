@@ -1,6 +1,6 @@
 # CLIP Zero-Shot Image-Text Matching Practice
 
-## 프로젝트 설명
+## 실습 설명
 
 사전학습된 CLIP 모델을 사용하여 이미지와 텍스트 간의 유사도를 계산하는 VLM 입문 실습입니다.
 
